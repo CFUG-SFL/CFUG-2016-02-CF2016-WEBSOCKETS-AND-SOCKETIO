@@ -1,0 +1,40 @@
+body{
+	padding-top:51px;
+	font:normal 14px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif !important;
+	-webkit-font-smoothing: subpixel-antialiased;
+}
+pre{
+	font: normal 14px/1.4 Menlo,consolas,monospace;
+	border-radius: 0;
+	margin:0;
+}
+.list-unstyled li{
+	padding:.5em;
+	background:#eee;
+	margin:1px 0;
+	position: relative;
+}
+#status-message{
+	margin:0;
+	border-radius: 0;
+	border-width: 1px 0 0 0;
+}
+.timestamp{
+	position: absolute;
+	right:1em;
+	top:1em;
+	font-size: 1.2em;
+	font-weight: 600;
+	color: #888;
+}
+.navbar-header {
+	float: left !important;
+}
+.navbar-nav{
+	margin: 0 !important;
+}
+.navbar-nav>li>a{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	line-height: 20px;
+}

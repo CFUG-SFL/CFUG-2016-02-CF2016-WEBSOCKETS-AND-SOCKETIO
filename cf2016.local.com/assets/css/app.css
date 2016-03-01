@@ -1,0 +1,4 @@
+body, input, select, option, textarea, button, table{
+	font:400 14px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+	-webkit-font-smoothing: subpixel-antialiased;
+}
