@@ -10,7 +10,7 @@ There are 4 directories that were used in the demo and they are named based on t
 	</li>
 	<li>
 		<b>realtime.local.com</b><br />
-		This is the code from my [WebSockets CF Summit Presentation](https://github.com/GiancarloGomez/ColdFusion-CFSummit-WebSockets). This 	should run without any problem by simply browsing and includes an update to the console app that was originally in one of the Adobe Docs which you can drop into any project to debug your WebSocket server.
+		This is the code from my <a href="https://github.com/GiancarloGomez/ColdFusion-CFSummit-WebSockets">WebSockets CF Summit Presentation</a>. This 	should run without any problem by simply browsing and includes an update to the console app that was originally in one of the Adobe Docs which you can drop into any project to debug your WebSocket server.
 	</li>
 	<li>
 		<b>socket.io</b><br />
