@@ -13,6 +13,6 @@ The JavaScript Utility to help with connectivity issues with ColdFusion WebSocke
 * __co2016.local.com__<br />
 This folder contains several subfolders that test some of the new code updates of ACF2016, only run if this is installed on an ACF 2016 server.
 * __socket.io__ ( [node.js required](https://nodejs.org/) )<br />
-This is the code for the <a href="http://socket.io/" target="blank">socket.io</a> server that will run on port 8080. Remember to do an <code>npm install</code> after downloading and then run <code>node server.js</code> to start.
+This is the code for the [socket.io](http://socket.io/) server that will run on port 8080. Remember to do an <code>npm install</code> after downloading and then run <code>node server.js</code> to start.
 * __socketio.local.com__<br />
 The example site using the socket.io server to connect, send and receive messages both from the client and the server (publish.cfm).
